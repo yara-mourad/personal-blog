@@ -42,3 +42,8 @@ article header {
     align-items: baseline;
     justify-content: space-between;
 }
+
+time {
+    color: #7a91a5;
+    font-family: 'Montserrat', sans-serif;
+}
