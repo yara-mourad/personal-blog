@@ -94,3 +94,8 @@ footer {
     margin-top: 2em;
     text-align: center;
 }
+
+footer i {
+    color: #ff9933;
+    font-family: 'Montserrat', sans-serif;
+}
