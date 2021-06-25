@@ -99,3 +99,32 @@ footer i {
     color: #ff9933;
     font-family: 'Montserrat', sans-serif;
 }
+
+/* responsive styles */
+@media (min-width: 1000px) {
+    .hero-img {
+        min-height: 35vh;
+        margin-bottom: 2em;
+    }
+    .container {
+        display: flex;
+    }
+    main {
+        flex: 1 1 70%;
+    }
+    aside {
+        display: block;
+        border-top: 0;
+        border-left: 2px solid #dbe2e8;
+        padding: 2em;
+        margin: 0;
+        flex: 1 1 30%;
+        align-self: flex-start;
+    }
+    .aside-text {
+        margin-left: 0;
+    }
+    .aside-text h2 {
+        margin-top: 0.5em;
+    }
+}
