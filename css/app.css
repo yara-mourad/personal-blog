@@ -26,3 +26,12 @@ h1 {
     text-align: center;
     letter-spacing: 8px;
 }
+
+/* content styles */
+.container {
+    margin: auto;
+}
+
+article, aside {
+    margin: 2em;
+}
