@@ -47,3 +47,8 @@ time {
     color: #7a91a5;
     font-family: 'Montserrat', sans-serif;
 }
+
+article img {
+    width: 100%;
+    height: auto;
+}
