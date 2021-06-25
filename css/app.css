@@ -72,3 +72,11 @@ aside img {
     width: 100%;
     height: auto;
 }
+
+.aside-text {
+    margin-left: 2em;
+}
+
+.aside-text h2 {
+    margin-top: 0;
+}
