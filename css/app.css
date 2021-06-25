@@ -128,3 +128,18 @@ footer i {
         margin-top: 0.5em;
     }
 }
+
+@media (max-width: 650px) {
+    aside {
+        flex-wrap: wrap;
+    }
+    .aside-text {
+        margin-left: 0;
+    }
+    section i {
+        padding-right: 5px;
+    }
+    .aside-text h2 {
+        margin-top: 0.5em;
+    }
+}
