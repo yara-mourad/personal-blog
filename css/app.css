@@ -59,3 +59,11 @@ a {
     text-transform: uppercase;
     font-weight: bold;
 }
+
+/* aside styles */
+aside {
+    display: flex;
+    margin-top: 2em;
+    border-top: 2px solid #dbe2e8;
+    padding-top: 2em;
+}
