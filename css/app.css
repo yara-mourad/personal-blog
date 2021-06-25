@@ -35,3 +35,10 @@ h1 {
 article, aside {
     margin: 2em;
 }
+
+/* article styles */
+article header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
