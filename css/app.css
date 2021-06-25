@@ -52,3 +52,10 @@ article img {
     width: 100%;
     height: auto;
 }
+
+a {
+    color: #ff9933;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
