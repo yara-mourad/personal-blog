@@ -80,3 +80,9 @@ aside img {
 .aside-text h2 {
     margin-top: 0;
 }
+
+section i {
+    font-size: 1.5em;
+    color: #ff9933;
+    padding-right: 10px;
+}
