@@ -86,3 +86,11 @@ section i {
     color: #ff9933;
     padding-right: 10px;
 }
+
+/* footer styles */
+footer {
+    padding: 2em;
+    border-top: 2px solid #dbe2e8;
+    margin-top: 2em;
+    text-align: center;
+}
